@@ -1,0 +1,15 @@
+il=2
+ir=21
+jd=2
+ju=11
+N_layers_v_x=2
+N_layers_v_y=2
+Nbx=11
+Nby=6
+Npx=24
+Npy=14
+Npx_inner=18
+Npy_inner=8
+height_box=0.125
+length_box=0.111111
+inf_h=0.11
